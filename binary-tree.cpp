@@ -1,8 +1,6 @@
 /*************************************************************************
 	File Name: binary-tree.cpp
 	Author: lideliang
-	Mail: lideliang@didichuxing.com 
-	Created Time: 2017年04月28日 星期五 15时32分00秒
  ************************************************************************/
 // description:二叉树的插入、删除、清空，更新等操作
 #include<iostream>

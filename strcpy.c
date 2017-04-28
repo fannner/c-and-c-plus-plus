@@ -1,8 +1,6 @@
 /*************************************************************************
 	File Name: strcpy.c
 	Author: lideliang
-	Mail: lideliang@didichuxing.com 
-	Created Time: 2017年04月28日 星期五 15时37分44秒
  ************************************************************************/
 
 char *Strcpy(char *strDest,const char *strScr)

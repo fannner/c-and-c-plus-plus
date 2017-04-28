@@ -1,8 +1,6 @@
 /*************************************************************************
 	File Name: lottery.c
 	Author: lideliang
-	Mail: lideliang@didichuxing.com 
-	Created Time: 2017年04月28日 星期五 15时25分10秒
  ************************************************************************/
 // description:摇奖程序（利用信号之间通信）
 #include <stdio.h>

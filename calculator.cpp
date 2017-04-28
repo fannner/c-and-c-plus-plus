@@ -1,8 +1,6 @@
 /*************************************************************************
 	File Name: calculator.cpp
 	Author: lideliang
-	Mail: lideliang@didichuxing.com 
-	Created Time: 2017年04月28日 星期五 15时32分58秒
  ************************************************************************/
 //description:基于Qt的计算器，能实现基本的加减乘除乘方开放等功能
 #include"caldlg.h"
